@@ -1,0 +1,16 @@
+{
+  "name": "reactblogx-server",
+  "version": "1.0.0",
+  "description": "Node server for reactblogx. Node + Express + mongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "blog",
+    "easy"
+  ],
+  "author": "Nalee Riddell",
+  "license": "ISC"
+}
